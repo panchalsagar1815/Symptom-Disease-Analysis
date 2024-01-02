@@ -1,6 +1,5 @@
 # Symptom-Disease-Analysis
 
-Project Title: Disease Symptom Analysis
 
 Project Description:
 The "Disease Symptom Analysis" project is a comprehensive investigation into medical data aimed at understanding and analyzing disease symptoms. Leveraging an extensive dataset with features such as _id, chief_complaint_id, chief_complaint_name_id, name, reason_code, life_threatening, msp_enabled, primary_complaint, and diagnosis_count, the project focuses on extracting meaningful insights through various analytical methodologies.
